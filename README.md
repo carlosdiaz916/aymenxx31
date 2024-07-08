@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm aymen</h1>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aymenxx31)](https://github.com/aymenxx31/github-readme-stats)
 <h3 align="center">An Cybersecurity, Programmer from Algeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aymenxx31&label=Profile%20views&color=0e75b6&style=flat" alt="aymenxx31" /> </p>
