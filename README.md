@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Carlos Diaz</h1>
-<h3 align="center">A passionate frontend developer and CyberSecurity from Spain</h3>
+<h3 align="center">A passionate Full-Stack developer and CyberSecurity , Bug Bounty Hunter from Algeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aymenxx31&label=Profile%20views&color=0e75b6&style=flat" alt="aymenxx31" /> </p>
 
-- 🔭 I’m currently working on **Splashy**
+- 🔭 I’m currently working on **ltctopay**
 
 - 🌱 I’m currently learning **Ruby,Swift,Php**
 
@@ -11,11 +11,9 @@
 
 - 🤝 I’m looking for help with **Framework**
 
-- 👨‍💻 All of my projects are available at [https://aymenservices.neocities.org/](https://aymenservices.neocities.org/)
+- 💬 Ask me about **Cybersecurity,Programming, Bug Bounty Hunter**
 
-- 💬 Ask me about **Cybersecurity,Programming**
-
-- 📫 How to reach me **carlos.diaz@gmail.com**
+- 📫 How to reach me **aymenxx31@gmail.com**
 
 - ⚡ Fun fact **I Love coffee**
 
